@@ -7,3 +7,6 @@ Fluent themes for WinRAR
 - https://www.deviantart.com/drsamuelhaydenufpw/art/WinRAR11-Light-READ-DESCRIPTION-919855755 <br/>
 - https://www.deviantart.com/drsamuelhaydenufpw/art/Fluent-WinRAR-Dark-Theme-READ-DESCRIPTION-919853970 <br/>
 
+![dark](https://raw.githubusercontent.com/FadeMind/fluent_winrar/raw/master/img/dark.png)
+
+![Light](https://raw.githubusercontent.com/FadeMind/fluent_winrar/raw/master/img/light.png)
