@@ -1,0 +1,2 @@
+title=WinRAR Fluent Light
+about=WinRAR Fluent Light

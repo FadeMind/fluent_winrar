@@ -1,0 +1,2 @@
+title=WinRAR Fluent Dark
+about=WinRAR Fluent Dark theme
